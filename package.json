@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rtc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^3.1.1",
+    "socket.io-client": "^3.1.1"
+  }
+}
